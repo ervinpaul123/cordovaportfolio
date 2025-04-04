@@ -1,0 +1,41 @@
+/* Home.css */
+.home-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #261644;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-content {
+    max-width: 900px;
+    padding: 20px;
+  }
+  
+  .home-title {
+    font-size: 4rem;
+    font-weight: 800;
+    color: white;
+  }
+
+  .highlight {
+    color: #00ffff;
+  }
+  
+  .home-subtitle {
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .home-description {
+    font-size: 1.4rem;
+    line-height: 1.90;
+    color: white;
+    max-width: 750px;
+    margin: 0 auto;
+  }
+  

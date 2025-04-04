@@ -1,0 +1,41 @@
+.contact-section {
+    text-align: center;
+    background-color: #261644;
+    color: white;
+    padding: 50px 20px;
+}
+
+.title {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.title span {
+    color: #00bcd4;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.contact-item {
+    font-size: 1.2rem;
+    background-color: #2c2c2c;
+    padding: 10px 15px;
+    border-radius: 8px;
+    width: fit-content;
+}
+
+.contact-item a {
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.contact-item a:hover {
+    text-decoration: underline;
+}
