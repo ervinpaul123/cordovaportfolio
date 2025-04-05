@@ -12,11 +12,11 @@ const About = () => {
         <div className="text-container">
           <h2 className="about-title">About Me</h2>
           <p className="about-description">
-          Hello! I’m Ervin Paul Cordova IT student with a passion for technology, problem-solving, and innovation. I enjoy learning about software development .
-You sent
-In my free time, I like exploring new programming languages
-You sent
- My goal is to develop solutions that make a real impact and continuously improve my skills in the ever-evolving field of IT.
+          Hello! Im Ervin Paul Cordova IT student with a passion for technology, 
+          problem-solving, and innovation. I enjoy learning about software development .
+           In my free time, I like exploring new programming languages.
+            My goal is to develop solutions that make a real impact and
+            continuously improve my skills in the ever-evolving field of IT.
           </p>
         </div>
 </div> 

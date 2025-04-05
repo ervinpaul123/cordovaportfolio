@@ -1,6 +1,6 @@
 .about-section {
   min-height: 100vh;
-  background-color: #261644;
+  background-color: #000000;
   color: white;
   display: flex;
   align-items: center;
@@ -31,7 +31,7 @@
 }
 
 .about-description {
-  color: #d1d1d1;
+  color: #ffffff;
   max-width: 500px;
   line-height: 1.5;
   font-size: 1rem;
@@ -52,9 +52,9 @@
   align-items: center;
   justify-content: center;
   clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  background: #20203f;
+  background: #000000;
   padding: 50px;
-  border: 50px solid #20203f;
+  border: 50px solid #000000;
   animation: float 3s ease-in-out infinite;
   flex-shrink: 0; /* Prevents shrinking on smaller screens */
 }

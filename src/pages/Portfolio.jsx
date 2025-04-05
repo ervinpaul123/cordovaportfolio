@@ -1,19 +1,19 @@
 import React from "react";
 import "../styles/Portfolio.css";
-import project1 from "../images/6.png";
-import project2 from "../images/fantasy skull.png";
+import project1 from "../images/images.png";
+import project2 from "../images/14.png";
 
 const projects = [
   {
     image: project1,
-    title: "Codigo",
+    title: "Coding",
     description: "Coding web-application",
     github: "https://github.com/your-repo",
     liveDemo: "https://your-live-demo.com"
   },
   {
     image: project2,
-    title: "Fantasy Skull",
+    title: "Code",
     description: "Artistic digital project",
     github: "https://github.com/your-repo2",
     liveDemo: "https://your-live-demo2.com"

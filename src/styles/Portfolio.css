@@ -2,7 +2,7 @@
 
 .portfolio-section {
     text-align: center;
-    background-color: #261644;
+    background-color: #000000;
     color: white;
     padding: 50px 20px;
 }
@@ -25,7 +25,7 @@
 }
 
 .project-card {
-    background-color: #2c2c2c;
+    background-color: #fcf9f9e5;
     padding: 10px;
     border-radius: 10px;
     transition: transform 0.3s ease-in-out;
